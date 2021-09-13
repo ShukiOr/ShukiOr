@@ -17,7 +17,7 @@ Hi, my name is Or
 ...
 #OpenToWork
 ...
-
+***
 **Skilles set**
 
 🖤 Python (Pandas, Matpotlib, Seaborn, Numpy)
