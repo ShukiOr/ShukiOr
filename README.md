@@ -22,7 +22,7 @@ I have 16 years of Business experience in marketing management roles.
 <br>🖤 SQL - advanced sql writing skills
 <br>🖤 Power BI/ Power Query/ Power Pivot/ Dax Studio
 <br>🖤 Tableau
-<br>🖤 MongoDB
+<br>🖤 Google Analytics
 
 **Contact options**
 ------
